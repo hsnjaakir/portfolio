@@ -613,7 +613,7 @@ p{
     }
     #about .col-left{
         width: 600px;
-        height: 400px;
+        height: 600px;
         padding: 60px;
     }
     #about .col-left .about-img::after{
